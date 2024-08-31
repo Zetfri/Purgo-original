@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../Assets/Vector (1).png";
 import { Link } from "react-router-dom";
-import Bg from "../Assets/man-installs-heating-system-house-checks-pipes-with-wrench.png";
+import Bg from "../Assets/man-installs-heating-system-house-checks-pipes-with-wrench.avif";
 import Arrow from "../Assets/Vector (2).png";
 import Company from "./company";
 
