@@ -1,0 +1,15 @@
+@font-face {
+    font-family:  "Helvetica neue";
+    src: url("./Fonts/helvetica-neue-5/HelveticaNeueLight.otf");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Helvetica neue";
+    font-weight: 300;
+    font-style: normal;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
