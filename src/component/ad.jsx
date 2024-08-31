@@ -9,28 +9,28 @@ const Ad = () => {
                 <div className='w-full bg-[#777777] h-[1.4px] '/>
                 <div className='w-full flex h-auto  justify-between items-center sm:items-start px-5 sm:px-2'>
                     <p className='text-[#292AFF] text-[28px] font-bold'>Удобство</p>
-                    <p className='text-[18] w-[590px] sm:w-[45%] text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
+                    <p className='text-[18] w-[530px] mr-[60px] sm:mr-0 sm:w-[45%] text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
                 </div>
                 <div className='w-full bg-[#777777] h-[1px] '/>
                 <div className='w-full flex h-auto  justify-between items-center px-5 sm:px-2 sm:items-start sm:gap-1 '>
                     <p className='text-[#292AFF] text-[28px] font-bold'>Надежность</p>
-                    <p className='text-[18] w-[340px] mr-[250px] sm:mr-0  sm:w-[45%] text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять
+                    <p className='text-[18] w-[360px] mr-[230px] sm:mr-0  sm:w-[45%] text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять
 сотрудника - все хлопоты мы берем на себя</p>
                 </div>
                 <div className='w-full bg-[#777777] h-[1px] '/>
                 <div className='w-full flex h-auto  justify-between items-center px-5 sm:px-2 sm:items-start '>
                     <p className='text-[#292AFF] text-[28px] font-bold'>Качества</p>
-                    <p className='text-[18] w-[340px] sm:w-[45%] mr-[250px] sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
+                    <p className='text-[18] w-[360px] mr-[230px] sm:w-[45%]  sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
                 </div>
                 <div className='w-full bg-[#777777] h-[1px] '/>
                 <div className='w-full flex h-auto  justify-between items-center px-5 sm:px-2 sm:items-start '>
                     <p className='text-[#292AFF] text-[28px] font-bold'>Скорость</p>
-                    <p className='text-[18] w-[340px] sm:w-[45%] mr-[250px] sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
+                    <p className='text-[18] w-[360px] mr-[230px] sm:w-[45%]  sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
                 </div>
                 <div className='w-full bg-[#777777] h-[1px] '/>
                 <div className='w-full flex h-auto  justify-between items-center px-5 sm:px-2 sm:items-start '>
                     <p className='text-[#292AFF] text-[28px] font-bold'>Гарантии</p>
-                    <p className='text-[18] w-[340px] sm:w-[45%] mr-[250px] sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
+                    <p className='text-[18] w-[360px] mr-[230px] sm:w-[45%]  sm:mr-0 text-[#3D3D3D]'>Вам не нужно искать оформлять или увольнять сотрудника - все хлопоты мы берем на себя</p>
                 </div>
                 <div className='w-full mt-10'>
                     <img src={Img} alt="" className='w-full sm:h-[200px]'/>
